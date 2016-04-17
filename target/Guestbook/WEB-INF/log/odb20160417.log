@@ -1,0 +1,11 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2016-04-17 10:25:22 #1 store] 
+Database '/home/charanjiths/Downloads/guestbook-spring/target/Guestbook/WEB-INF/db/guests.odb' is opened by 3733@PRINHYLTPHP0415
+
+[2016-04-17 10:25:22 #2 type.registry] 
+New type guest.Guest
+
+[2016-04-17 10:25:22 #3 type] 
+Type guest.Guest is not enhanced.
+
